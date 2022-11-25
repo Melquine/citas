@@ -1,0 +1,21 @@
+.container {
+  margin: 50px auto;
+}
+
+.citas {
+  background-color: yellowgreen;
+}
+
+.tus-citas {
+  margin-top: 25px;
+  margin-left: 40px;
+}
+
+@media screen and (min-width: 524) {
+  .form-cont {
+    max-width: 500px;
+  }
+  .tus-citas {
+    margin-left: 0;
+  }
+}
