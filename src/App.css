@@ -16,5 +16,6 @@
   }
   .tus-citas {
     margin-left: 40px;
+    max-width: 500px;
   }
 }
