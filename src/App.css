@@ -8,14 +8,13 @@
 
 .tus-citas {
   margin-top: 25px;
-  margin-left: 40px;
 }
 
-@media screen and (min-width: 524) {
+@media screen and (min-width: 576px) {
   .form-cont {
     max-width: 500px;
   }
   .tus-citas {
-    margin-left: 0;
+    margin-left: 40px;
   }
 }
